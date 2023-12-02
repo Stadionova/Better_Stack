@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  .verticalBorder {
+    width: 1px;
+    height: 24px;
+    background: rgba(191, 194, 212, 0.30);
+    margin: 0 16px 0 16px;
+  }
+
+  input {
+    outline: none;
+  }
+}
